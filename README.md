@@ -1,0 +1,2 @@
+# first
+pierwszy projekt treningowy
